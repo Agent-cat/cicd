@@ -5,8 +5,9 @@ const App = () => {
     <div className="bg-black w-full h-screen">
       <h1 className="text-white">
         Hello world
-        <button>ccsjcjkas</button>
         </h1>
+        <div className="w-full h-screen bg-orange-400">1</div>
+        <div className="w-full h-screen bg-pink-400">2</div>
     </div>
   )
 }
